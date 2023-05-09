@@ -1,16 +1,23 @@
-### Hi there 👋
+# Isaac Hoey
 
-<!--
-**hoeyi/hoeyi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## About me
+- 🔭 I'm currently working on `applications for streamlining daily life`
+- 🌱 I am currently learning `containerized applicatons`
+- 👯 I’m looking to learn all that can be learned in a lifetime
 
-Here are some ideas to get you started:
+## Technologies and tools used
+* C#
+* SQL Server
+* SQL Server Reporting Services
+* Markdown
+* PowerShell
+* R
+* python
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Focus areas
+* Financial/investment data
+* Automation
+* Data analysis
+
+## Contact
+[LinkedIn](https://www.linkedin.com/in/isaac-hoey/)
