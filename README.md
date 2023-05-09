@@ -13,6 +13,7 @@
 
 ## Technologies and tools used
 * C#
+* Entity Framework
 * SQL Server
 * SQL Server Reporting Services
 * Markdown
