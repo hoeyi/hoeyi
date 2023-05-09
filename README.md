@@ -16,7 +16,7 @@
 
 ## Focus areas
 * Financial/investment data
-* Automation
+* Automation/scripting
 * Data analysis
 
 ## Contact
