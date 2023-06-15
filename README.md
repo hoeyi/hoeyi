@@ -1,8 +1,7 @@
 # Isaac Hoey
 
 ## About me
-- 🔭 I'm currently working on `applications for streamlining daily life`
-- 🌱 I am currently learning `containerized applicatons`
+- 🔭 I'm currently working on `applications for robust and easy finanical management`
 - 👯 I’m looking to learn all that can be learned in a lifetime
 
 ## Projects 
