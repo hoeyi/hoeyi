@@ -14,7 +14,6 @@
 * Entity Framework
 * SQL Server
 * SQL Server Reporting Services
-* Markdown
 * PowerShell
 * R
 * python
