@@ -5,7 +5,7 @@
 - 👯 I’m looking to learn all that can be learned in a lifetime
 
 ## Projects 
-* [NjordinSight](/../../../NjordinSight): A web-application for recording and reporting spending and investing activity. Built using Blazor, ASP.NET Core, and Entity Framework Core.
+* [Ozym](/../../../Ozym): A web-application for recording and reporting spending and investing activity. Built using Blazor, ASP.NET Core, and Entity Framework Core.
 * [DataModel](/../../../DataModel): Methods and classes for defining, accessing, and using metdata for presenation and search.
 * [Extensions.Configuration](/../../../Extensions.Configuration): Writable and encrypted providers for .NET configuration.
 
