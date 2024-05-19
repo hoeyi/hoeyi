@@ -2,7 +2,6 @@
 
 ## About me
 - 🔭 I'm currently working on applications for financial reporting
-- 👯 I’m looking to learn all that can be learned in a lifetime
 
 ## Projects 
 * [Ozym](/../../../Ozym): A web-application for recording and reporting spending and investing activity. Built using Blazor, ASP.NET Core, and Entity Framework Core.
