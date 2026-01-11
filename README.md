@@ -10,8 +10,8 @@
 
 ##  Skills ##
 **Languages** <br/>
-_proficient:_ C#, T-SQL <br/>
-_familiar:_ R, python, Visual Basic <br/>
+_proficient:_ C#, T-SQL, R <br/>
+_familiar:_ SAS, python, Visual Basic, VBA <br/>
 
 **Frameworks/Tools**<br/>
 Entity Framework, EF Core, Blazor, SSRS, ASP.NET Core, Docker <br/>
