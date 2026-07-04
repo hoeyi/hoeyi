@@ -10,19 +10,19 @@
 
 ##  Skills ##
 **Languages** <br/>
-_proficient:_ C#, T-SQL, R <br/>
-_familiar:_ SAS, python, Visual Basic, VBA <br/>
+- Proficient in: C#, T-SQL, R, PowerShell.
+- Familiar with: SAS, python, Visual Basic, VBA.
 
-**Frameworks/Tools**<br/>
-Entity Framework, EF Core, Blazor, SSRS, ASP.NET Core, Docker <br/>
-
-**Databases**<br/>
-SQL Server, relational
+**Frameworks/Tools**
+Experience workting with the following:
+- Database / ORM: SQL Server, Entity Framework, EF Core, AutoMapper
+- Web: ASP.NET Core, Docker
+- Reporting:  SQL Server Reporting Services
 
 ## Topics ##
-* Personal financial management, portfolio analysis
-* Data analysis
-* Shell scripting
+- Personal financial management (expense tracking, income growth, savings rate)
+- Performance / portfolio analysis (portfolio drift, composite construction, return composition and distribution)
+- Process design and automation
 
 ## Contact ##
 [LinkedIn](https://www.linkedin.com/in/isaac-hoey/)
