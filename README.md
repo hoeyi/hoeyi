@@ -14,7 +14,7 @@
 - Familiar with: SAS, python, Visual Basic, VBA.
 
 **Frameworks/Tools**
-Experience workting with the following:
+Experience working with the following:
 - Database / ORM: SQL Server, Entity Framework, EF Core, AutoMapper
 - Web: ASP.NET Core, Docker
 - Reporting:  SQL Server Reporting Services
