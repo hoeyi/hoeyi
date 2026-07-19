@@ -1,7 +1,7 @@
 # Isaac Hoey
 
 ## About me
-- 🔭 I'm currently working on applications for financial reporting and analysis
+I'm currently working on applications for financial reporting and analysis.
 
 ## Projects
 * [Ozym](/../../../Ozym): A web-application for recording and reporting spending and investing activity. Built using Blazor, ASP.NET Core, and Entity Framework Core.
