@@ -5,7 +5,7 @@ I'm currently working on applications for financial reporting and analysis.
 
 ## Projects
 * [Ozym](/../../../Ozym): A web-application for recording and reporting spending and investing activity. Built using Blazor, ASP.NET Core, and Entity Framework Core.
-* [DataModel](/../../../DataModel): Methods and classes for defining, accessing, and using metdata for presenation and search.
+* [marksapi](/../../../marksapi): Collection of API libraries and CLI wrapper for market & economic data.
 * [Extensions.Configuration.Docker](https://github.com/ichyd/Extensions.Configuration.Docker): Basic implementation of a dotnet configuration provider using Docker secrets.
 ##  Skills
 ### Languages
