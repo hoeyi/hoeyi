@@ -9,7 +9,7 @@ I'm currently working on applications for financial reporting and analysis.
 * [Extensions.Configuration.Docker](https://github.com/ichyd/Extensions.Configuration.Docker): Basic implementation of a dotnet configuration provider using Docker secrets.
 ##  Skills
 ### Languages
-- Proficient in: C#, T-SQL, R, PowerShell.
+- Proficient in: C#, SQL, R, PowerShell.
 - Familiar with: SAS, python, Visual Basic, VBA.
 
 ### Frameworks/Tools
