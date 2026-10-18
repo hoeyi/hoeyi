@@ -19,9 +19,8 @@ Experience working with the following:
 - Reporting:  SQL Server Reporting Services
 
 ## Topics / Interests
-- Personal financial management (expense tracking, income growth, savings rate)
 - Performance / portfolio analysis (portfolio drift, composite construction, return composition and distribution)
-- Process design and automation
+- Process / choice design and automation
 
 ## Contact
 [LinkedIn](https://www.linkedin.com/in/isaac-hoey/)
